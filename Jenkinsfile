@@ -1,4 +1,4 @@
-def readProb;
+def readProb; //
 def FAILED_STAGE
 pipeline {
 agent { label 'master'}
